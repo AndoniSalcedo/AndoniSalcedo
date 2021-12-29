@@ -4,7 +4,7 @@
 
 - Web development 
 - Deployment: Kubernetes, AWS
-- Movil development  
+- Mobile development  
 - Full Stack
 
 ## 🌱 I’m currently learning ...
