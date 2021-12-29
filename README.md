@@ -15,6 +15,11 @@
 
 Open Source Projects
 
+## 📫 How to reach me ...
+
+<a href="mailto:andonisalcedo@gmail.com"> <img alt="" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
+
 ---
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=AndoniSalcedo&show_icons=true)
@@ -35,14 +40,11 @@ Open Source Projects
 
 <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"><img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 
-### DataBases
+### Databases
 
 <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"><img alt="PosgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 
  
- 📫 How to reach me ...
-
-<a href="mailto:andonisalcedo@gmail.com"> <img alt="" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 <!-- BADGES: https://dev.to/envoy_/150-badges-for-github-pnk -->
 
