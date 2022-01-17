@@ -27,7 +27,7 @@ Open Source Projects
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AndoniSalcedo&theme=blue-green)
 
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=AndoniSalcedo)
+<!--![Profile View Counter](https://komarev.com/ghpvc/?username=AndoniSalcedo) -->
 
 ### Languajes
 
