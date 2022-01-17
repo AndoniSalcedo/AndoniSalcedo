@@ -9,7 +9,7 @@
 
 ## 🌱 I’m currently learning ...
 
-<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"><img alt="SpringBoot" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 
 ## 💞️ I’m looking to collaborate on ...
 
@@ -27,7 +27,7 @@ Open Source Projects
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AndoniSalcedo&theme=blue-green)
 
 
-<!--![Profile View Counter](https://komarev.com/ghpvc/?username=AndoniSalcedo) -->
+![Profile View Counter](https://komarev.com/ghpvc/?username=AndoniSalcedo)
 
 ### Languajes
 
