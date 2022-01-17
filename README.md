@@ -49,6 +49,7 @@ Open Source Projects
 <!-- BADGES: https://dev.to/envoy_/150-badges-for-github-pnk -->
 
 <!--
+
 <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
